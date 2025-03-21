@@ -41,11 +41,11 @@ By the end of the project, you should be able to:
 
 The project leverages the following tools and technologies
 
-| Technology |  Version  |
-| ---------- | :-------: |
-| Git        | : 2.39+ : |
-| GitHub     | :Latest : |
-| Markdown   |  : N/A :  |
+| Technology | Version |
+| ---------- | :-----: |
+| Git        |  2.39+  |
+| GitHub     | Latest  |
+| Markdown   |   N/A   |
 
 Additionally, you will use GitHub's pull request and issue tracking features for collaboration and conflict resolution.
 
