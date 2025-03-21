@@ -1,6 +1,6 @@
 # git-assessment-skill-1-level-2-
 
-# Git Assessment Project
+# 🚀Git Assessment Project
 
 This is the best project ever!
 
@@ -8,24 +8,24 @@ A collaborative project designed to learn GitHub workflows, handle pull requests
 
 ## Table of Contents
 
-- [Introduction]
-- [ProjectOverview]
-- [TechnologiesUsed]
-- [Setup&Installation]
-- [BrancingStraegy]
-- [GitWorkflow]
-- [PullRequest&MergeConflictResolution]
-- [Contributing]
-- [License]
-- [NextSteps]
+- [Introduction]()
+- [Project Overview]()
+- [Technologies Used]()
+- [Setup & Installation]()
+- [Brancing Straegy]()
+- [Git Workflow]()
+- [Pull Request & Merge Conflict Resolution]()
+- [Contributing]()
+- [License]()
+- [Next Steps]()
 
-## Introduction
+## 📌 Introduction
 
 Welcome to the **Git Assessment Project!** This project is designed to teach you about Git workflows, using GitHub for collabration, and handling merge conflicts. As a part of this projects, you'll practice using **feature brances, creating pull requests**, and **resolving merge conflicts.** The skill you gain here will help you become proficient in **version control** and **collabrative software development.**
 
 This repository contains pre-configured conflicts and instructions to simulate a real-world collaborative development environment.
 
-## Project Overview
+## 🗒 Project Overview
 
 The goal of this projects is to familiarize yourself with the following key concepts:
 
@@ -37,7 +37,7 @@ By the end of the project, you should be able to:
 - Resolve merge conflicts manually.
 - Follow the Git flow process in a team environment.
 
-## Technologies Used
+## ⚒️ Technologies Used
 
 The project leverages the following tools and technologies
 
@@ -49,7 +49,7 @@ The project leverages the following tools and technologies
 
 Additionally, you will use GitHub's pull request and issue tracking features for collaboration and conflict resolution.
 
-## Setup & Installation
+## 💻Setup & Installation
 
 To get started with the project, follow these steps to clone the repository, set up your development environment, and begin working with Git>
 
