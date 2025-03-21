@@ -41,11 +41,11 @@ By the end of the project, you should be able to:
 
 The project leverages the following tools and technologies
 
-| Technology | Version |
-| ---------- | :-----: |
-| Git        |  2.39+  |
-| GitHub     | Latest  |
-| Markdown   |   N/A   |
+| Technology |  Version  |
+| ---------- | :-------: |
+| Git        | : 2.39+ : |
+| GitHub     | :Latest : |
+| Markdown   |  : N/A :  |
 
 Additionally, you will use GitHub's pull request and issue tracking features for collaboration and conflict resolution.
 
@@ -57,8 +57,8 @@ To get started with the project, follow these steps to clone the repository, set
 
 Clone the project to your local machine:
 
-|
+```
 https://github.com/bunseuseng/git-assessment-skill-1-level-2-.git
 
 cd git-assessment
-|
+```
